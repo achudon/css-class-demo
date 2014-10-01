@@ -28,3 +28,12 @@ header {
 footer {
 	background-color: #EEFFCC;
 }
+
+.menu {
+	background-color: #FFEE00;
+}
+
+header p {
+	font-size: 120%;
+	color: #FFF;
+}
